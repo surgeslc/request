@@ -1,0 +1,17 @@
+{
+  "name": "requesthttp",
+  "version": "1.0.0",
+  "description": "Training file for using the request HTTP client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http", "request"
+  ],
+  "author": "Lawrence Surges",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "request": "^2.81.0"
+  }
+}
